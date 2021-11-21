@@ -1,4 +1,4 @@
-# MongoDB-Java-driver
+# 🗃MongoDB-Java-driver🗂
 
 Introduce how to connect MongoDB to the application in Java.
 
@@ -7,7 +7,7 @@ This is part of a MEAN-stack project. We will go through this step by step.
 To begin with, we will take a look at the database management system (DBMS) and use MongoDB as a tool.
 </br>MongoDB is the 'M' of MEAN, which has become a standard solution to implement full stack web applications.
 
-## What is Mongo DB?
+## [What is Mongo DB?](https://searchdatamanagement.techtarget.com/definition/MongoDB)
 MongoDB is an open source NoSQL database management program.
 There are two types of database, SQL and NoSQL. </br>
 Simply speaking, the main difference between them is that SQL stores data in a table format whereas NoSQL stores data as documents in each collection.
@@ -52,6 +52,7 @@ There are 4 packages in the main java folder.
 There is also a test package to test the CRUD methods in the repo class. I tested general data part and evaluation record part separately.
 
 ## I think we are ready to start!
+The idea of this project is from https://github.com/aldaGit/integrationArch
 
 
 
