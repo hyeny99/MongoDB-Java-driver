@@ -1,4 +1,5 @@
-# 🗃MongoDB-Java-driver🗂
+# MEAN stack IA project: salesman management and bonus calculation
+# PART1: 🗃MongoDB-Java-driver🗂
 
 Introduce how to connect MongoDB to the application in Java.
 
