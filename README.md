@@ -53,6 +53,12 @@ There are 4 packages in the main java folder.
 There is also a test package to test the CRUD methods in the repo class. I tested general data part and evaluation record part separately.
 
 ## I think we are ready to start!
+
+
+### Related Repositories:
+part2: [Springboot, Postman and Swagger](https://github.com/hyeny99/Springboot-and-Postman)
+
+</br>
 The idea of this project is from https://github.com/aldaGit/integrationArch
 
 
